@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MedCodeOS
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Software development/networking
 - 🌱 I’m currently trying to improve my skills
 - 💞️ I’m looking to collaborate on a windows software idea!
 - 📫 [contact me!!](http://medcode.rf.gd/#contact)
